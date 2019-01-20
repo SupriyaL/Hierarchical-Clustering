@@ -7,6 +7,9 @@ Python v3.6
 # Corpus
 Amino Acid Sequence of Human Genes
 
+# Dependencies
+numpy
+
 # Pre-processing
 Run Preprocess.py
 
