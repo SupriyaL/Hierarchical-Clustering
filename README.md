@@ -8,7 +8,8 @@ Python v3.6
 Amino Acid Sequence of Human Genes
 
 # Dependencies
-numpy
+1. numpy
+2. scipy
 
 # Pre-processing
 Run Preprocess.py
